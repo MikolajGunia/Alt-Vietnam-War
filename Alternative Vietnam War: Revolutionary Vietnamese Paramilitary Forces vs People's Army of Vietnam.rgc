@@ -1,0 +1,872 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "2797700768",
+                    "sourceWorkshopId": 2797700768,
+                    "name": "BAR M1918A2"
+                },
+                {
+                    "sourceDirectory": "2035639749",
+                    "sourceWorkshopId": 2035639749,
+                    "name": "Type 56-1"
+                },
+                {
+                    "sourceDirectory": "2035639749",
+                    "sourceWorkshopId": 2035639749,
+                    "name": "Type 56"
+                },
+                {
+                    "sourceDirectory": "1765580370",
+                    "sourceWorkshopId": 1765580370,
+                    "name": "Pistolet-Pulemyot Shpagina-41 [Box magazine/Late]"
+                },
+                {
+                    "sourceDirectory": "1765580370",
+                    "sourceWorkshopId": 1765580370,
+                    "name": "Pistolet-Pulemyot Shpagina-41 [Drum magazine/Late]"
+                },
+                {
+                    "sourceDirectory": "1945521083",
+                    "sourceWorkshopId": 1945521083,
+                    "name": "Pistolet Mitrailleur MAS modèle 38 "
+                },
+                {
+                    "sourceDirectory": "2798155126",
+                    "sourceWorkshopId": 2798155126,
+                    "name": "DP-27"
+                },
+                {
+                    "sourceDirectory": "1920368960",
+                    "sourceWorkshopId": 1920368960,
+                    "name": "Fallschirmjägergewehr 42"
+                },
+                {
+                    "sourceDirectory": "1920368960",
+                    "sourceWorkshopId": 1920368960,
+                    "name": "Fallschirmjägergewehr 42 [Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1920368960",
+                    "sourceWorkshopId": 1920368960,
+                    "name": "Fallschirmjägergewehr 42 [Schiessbecher ]"
+                },
+                {
+                    "sourceDirectory": "1920368960",
+                    "sourceWorkshopId": 1920368960,
+                    "name": "Fallschirmjägergewehr 42 [ZFG42]"
+                },
+                {
+                    "sourceDirectory": "2064356303",
+                    "sourceWorkshopId": 2064356303,
+                    "name": "Maschinengewehr 34"
+                },
+                {
+                    "sourceDirectory": "2553818286",
+                    "sourceWorkshopId": 2553818286,
+                    "name": "LK ZB-26"
+                },
+                {
+                    "sourceDirectory": "2055682529",
+                    "sourceWorkshopId": 2055682529,
+                    "name": "Fusil Mle 1886 M93"
+                },
+                {
+                    "sourceDirectory": "2871149273",
+                    "sourceWorkshopId": 2871149273,
+                    "name": "TYPE 56 SAR"
+                },
+                {
+                    "sourceDirectory": "2055682529",
+                    "sourceWorkshopId": 2055682529,
+                    "name": "Mle 1886 M93-R35"
+                },
+                {
+                    "sourceDirectory": "2254820821",
+                    "sourceWorkshopId": 2254820821,
+                    "name": "Fusil à répétition 7 mm 5 M. 36"
+                },
+                {
+                    "sourceDirectory": "2354113972",
+                    "sourceWorkshopId": 2354113972,
+                    "name": "Type 53 Carbine"
+                },
+                {
+                    "sourceDirectory": "2868106456",
+                    "sourceWorkshopId": 2868106456,
+                    "name": "Skorpion Vz.61"
+                },
+                {
+                    "sourceDirectory": "3024968818",
+                    "sourceWorkshopId": 3024968818,
+                    "name": "MP 40"
+                },
+                {
+                    "sourceDirectory": "3092429950",
+                    "sourceWorkshopId": 3092429950,
+                    "name": "PM63-RAK [25 ROUNDS]"
+                },
+                {
+                    "sourceDirectory": "3128767133",
+                    "sourceWorkshopId": 3128767133,
+                    "name": "CZ-Sa-23"
+                },
+                {
+                    "sourceDirectory": "2035639749",
+                    "sourceWorkshopId": 2035639749,
+                    "name": "Type 54"
+                },
+                {
+                    "sourceDirectory": "1871105003",
+                    "sourceWorkshopId": 1871105003,
+                    "name": "Walther P38"
+                },
+                {
+                    "sourceDirectory": "3092429950",
+                    "sourceWorkshopId": 3092429950,
+                    "name": "PM63-RAK"
+                },
+                {
+                    "sourceDirectory": "1945521083",
+                    "sourceWorkshopId": 1945521083,
+                    "name": "Pistolet Mitrailleur MAS modèle 38 [Secondary]"
+                },
+                {
+                    "sourceDirectory": "2868106456",
+                    "sourceWorkshopId": 2868106456,
+                    "name": "Skorpion Vz.61 (Secondary)"
+                },
+                {
+                    "sourceDirectory": "2902410755",
+                    "sourceWorkshopId": 2902410755,
+                    "name": "Molotov Cocktail"
+                },
+                {
+                    "sourceDirectory": "2798148134",
+                    "sourceWorkshopId": 2798148134,
+                    "name": "Nebelhandgranate"
+                },
+                {
+                    "sourceDirectory": "2798148134",
+                    "sourceWorkshopId": 2798148134,
+                    "name": "M24 Stielhandgranate"
+                },
+                {
+                    "sourceDirectory": "2798148134",
+                    "sourceWorkshopId": 2798148134,
+                    "name": "M24 Bundle"
+                },
+                {
+                    "sourceDirectory": "3114560172",
+                    "sourceWorkshopId": 3114560172,
+                    "name": "M20 \"Super Bazooka\""
+                },
+                {
+                    "sourceDirectory": "2064356303",
+                    "sourceWorkshopId": 2064356303,
+                    "name": "Maschinengewehr 34 [Gear]"
+                },
+                {
+                    "sourceDirectory": "2815074086",
+                    "sourceWorkshopId": 2815074086,
+                    "name": "Binoculars"
+                },
+                {
+                    "sourceDirectory": "2849000989",
+                    "sourceWorkshopId": 2849000989,
+                    "name": "M1A1 Thompson"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "AK-47"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "AK-47 w/o stock"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "AKM"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "B40"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "B41"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "CKC"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Homemade C96 MKI"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Homemade C96 MKII"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Homemade GL"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Homemade Shotgun"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "K-50M"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "K-56"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "K-56 I"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "MAS 49"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "MAS 49 w/ APX Scope"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "MAT 49"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Mosin Nagant"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Nagant M1895"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "PPS43"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "RG42"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "RGD5"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "RPD"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "RPK"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "SVD"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "TT-33"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "TUL-1"
+                },
+                {
+                    "sourceDirectory": "2660712924",
+                    "sourceWorkshopId": 2660712924,
+                    "name": "Type 30 bayonet"
+                },
+                {
+                    "sourceDirectory": "1439632100",
+                    "sourceWorkshopId": 1439632100,
+                    "name": "Flashlight"
+                },
+                {
+                    "sourceDirectory": "3259538580",
+                    "sourceWorkshopId": 3259538580,
+                    "name": "VZ.54"
+                },
+                {
+                    "sourceDirectory": "3185766513",
+                    "sourceWorkshopId": 3185766513,
+                    "name": "VZ-52"
+                },
+                {
+                    "sourceDirectory": "3185766513",
+                    "sourceWorkshopId": 3185766513,
+                    "name": "VZ-52/57"
+                },
+                {
+                    "sourceDirectory": "3266678861",
+                    "sourceWorkshopId": 3266678861,
+                    "name": "Vz.58 [VG70]"
+                },
+                {
+                    "sourceDirectory": "3266678861",
+                    "sourceWorkshopId": 3266678861,
+                    "name": "Vz.58 V"
+                },
+                {
+                    "sourceDirectory": "3266678861",
+                    "sourceWorkshopId": 3266678861,
+                    "name": "Vz.58 [BAYONET]"
+                },
+                {
+                    "sourceDirectory": "3266678861",
+                    "sourceWorkshopId": 3266678861,
+                    "name": "Vz.58"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2774966882",
+                    "sourceWorkshopId": 2774966882,
+                    "name": "GAZ-67-420"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2774966882",
+                    "sourceWorkshopId": 2774966882,
+                    "name": "GAZ-67"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2110363018",
+                    "sourceWorkshopId": 2110363018,
+                    "name": "assault boat"
+                }
+            ],
+            "turretConfiguration": [],
+            "skin": {
+                "sourceDirectory": "3013394377",
+                "sourceWorkshopId": 3013394377,
+                "name": "ARVN Special Forces"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "2051037365",
+                    "sourceWorkshopId": 2051037365,
+                    "name": "Gun, Lewis, .303-cal. Mark I"
+                },
+                {
+                    "sourceDirectory": "2553818286",
+                    "sourceWorkshopId": 2553818286,
+                    "name": "LK ZB-26"
+                },
+                {
+                    "sourceDirectory": "2064356303",
+                    "sourceWorkshopId": 2064356303,
+                    "name": "Maschinengewehr 34"
+                },
+                {
+                    "sourceDirectory": "2713623796",
+                    "sourceWorkshopId": 2713623796,
+                    "name": "Type 99"
+                },
+                {
+                    "sourceDirectory": "2713623796",
+                    "sourceWorkshopId": 2713623796,
+                    "name": "Type 99 [Bayonet]"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "AK-47"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "AK-47 w/o stock"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "AKM"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "B40"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "B41"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "CKC"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Homemade C96 MKI"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Homemade C96 MKII"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Homemade GL"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Homemade Shotgun"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "K-50M"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "K-56"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "K-56 I"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "MAS 49"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "MAS 49 w/ APX Scope"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "MAT 49"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Mosin Nagant"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "Nagant M1895"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "PPS43"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "RG42"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "RGD5"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "RPD"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "RPK"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "SVD"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "TT-33"
+                },
+                {
+                    "sourceDirectory": "2968884103",
+                    "sourceWorkshopId": 2968884103,
+                    "name": "TUL-1"
+                },
+                {
+                    "sourceDirectory": "2354113972",
+                    "sourceWorkshopId": 2354113972,
+                    "name": "Type 53 Carbine"
+                },
+                {
+                    "sourceDirectory": "2035639749",
+                    "sourceWorkshopId": 2035639749,
+                    "name": "Type 54"
+                },
+                {
+                    "sourceDirectory": "2035639749",
+                    "sourceWorkshopId": 2035639749,
+                    "name": "Type 56"
+                },
+                {
+                    "sourceDirectory": "2035639749",
+                    "sourceWorkshopId": 2035639749,
+                    "name": "Type 56-1"
+                },
+                {
+                    "sourceDirectory": "2902410755",
+                    "sourceWorkshopId": 2902410755,
+                    "name": "Molotov Cocktail"
+                },
+                {
+                    "sourceDirectory": "3114560172",
+                    "sourceWorkshopId": 3114560172,
+                    "name": "M20 \"Super Bazooka\""
+                },
+                {
+                    "sourceDirectory": "2798148134",
+                    "sourceWorkshopId": 2798148134,
+                    "name": "M24 Stielhandgranate"
+                },
+                {
+                    "sourceDirectory": "2798148134",
+                    "sourceWorkshopId": 2798148134,
+                    "name": "Nebelhandgranate"
+                },
+                {
+                    "sourceDirectory": "3092429950",
+                    "sourceWorkshopId": 3092429950,
+                    "name": "PM63-RAK"
+                },
+                {
+                    "sourceDirectory": "1945521083",
+                    "sourceWorkshopId": 1945521083,
+                    "name": "Pistolet Mitrailleur MAS modèle 38 [Secondary]"
+                },
+                {
+                    "sourceDirectory": "2868106456",
+                    "sourceWorkshopId": 2868106456,
+                    "name": "Skorpion Vz.61 (Secondary)"
+                },
+                {
+                    "sourceDirectory": "3092429950",
+                    "sourceWorkshopId": 3092429950,
+                    "name": "PM63-RAK [25 ROUNDS]"
+                },
+                {
+                    "sourceDirectory": "3128767133",
+                    "sourceWorkshopId": 3128767133,
+                    "name": "CZ-Sa-23"
+                },
+                {
+                    "sourceDirectory": "2849000989",
+                    "sourceWorkshopId": 2849000989,
+                    "name": "M1A1 Thompson"
+                },
+                {
+                    "sourceDirectory": "2868106456",
+                    "sourceWorkshopId": 2868106456,
+                    "name": "Skorpion Vz.61"
+                },
+                {
+                    "sourceDirectory": "2738347634",
+                    "sourceWorkshopId": 2738347634,
+                    "name": "Kar98k"
+                },
+                {
+                    "sourceDirectory": "2738347634",
+                    "sourceWorkshopId": 2738347634,
+                    "name": "Kar98k [Bayonet]"
+                },
+                {
+                    "sourceDirectory": "2777922291",
+                    "sourceWorkshopId": 2777922291,
+                    "name": "Mosin Nagant M91/30 [Dyakonov Launcher]"
+                },
+                {
+                    "sourceDirectory": "2051037365",
+                    "sourceWorkshopId": 2051037365,
+                    "name": "Gun, Lewis, .303-cal. Mark III"
+                },
+                {
+                    "sourceDirectory": "2777922291",
+                    "sourceWorkshopId": 2777922291,
+                    "name": "Mosin Nagant M91/30"
+                },
+                {
+                    "sourceDirectory": "2777922291",
+                    "sourceWorkshopId": 2777922291,
+                    "name": "Mosin Nagant M91/30 [PU Scope]"
+                },
+                {
+                    "sourceDirectory": "2871149273",
+                    "sourceWorkshopId": 2871149273,
+                    "name": "TYPE 56 SAR"
+                },
+                {
+                    "sourceDirectory": "2738048649",
+                    "sourceWorkshopId": 2738048649,
+                    "name": "Type Chiang Kai-Shek Rifle"
+                },
+                {
+                    "sourceDirectory": "2055682529",
+                    "sourceWorkshopId": 2055682529,
+                    "name": "Fusil Mle 1886 M93"
+                },
+                {
+                    "sourceDirectory": "2777922291",
+                    "sourceWorkshopId": 2777922291,
+                    "name": "Mosin Nagant M44 Carbine"
+                },
+                {
+                    "sourceDirectory": "2254820821",
+                    "sourceWorkshopId": 2254820821,
+                    "name": "Fusil à répétition 7 mm 5 M. 36"
+                },
+                {
+                    "sourceDirectory": "2738347634",
+                    "sourceWorkshopId": 2738347634,
+                    "name": "Kar98k [Scope]"
+                },
+                {
+                    "sourceDirectory": "2798155126",
+                    "sourceWorkshopId": 2798155126,
+                    "name": "DP-27"
+                },
+                {
+                    "sourceDirectory": "1920368960",
+                    "sourceWorkshopId": 1920368960,
+                    "name": "Fallschirmjägergewehr 42"
+                },
+                {
+                    "sourceDirectory": "2797700768",
+                    "sourceWorkshopId": 2797700768,
+                    "name": "BAR M1918A2"
+                },
+                {
+                    "sourceDirectory": "1945521083",
+                    "sourceWorkshopId": 1945521083,
+                    "name": "Pistolet Mitrailleur MAS modèle 38 "
+                },
+                {
+                    "sourceDirectory": "1765580370",
+                    "sourceWorkshopId": 1765580370,
+                    "name": "Pistolet-Pulemyot Shpagina-41 [Box magazine/Late]"
+                },
+                {
+                    "sourceDirectory": "1765580370",
+                    "sourceWorkshopId": 1765580370,
+                    "name": "Pistolet-Pulemyot Shpagina-41 [Drum magazine/Late]"
+                },
+                {
+                    "sourceDirectory": "2660712924",
+                    "sourceWorkshopId": 2660712924,
+                    "name": "Type 30 bayonet"
+                },
+                {
+                    "sourceDirectory": "1920368960",
+                    "sourceWorkshopId": 1920368960,
+                    "name": "Fallschirmjägergewehr 42 [Bayonet]"
+                },
+                {
+                    "sourceDirectory": "3024968818",
+                    "sourceWorkshopId": 3024968818,
+                    "name": "MP 40"
+                },
+                {
+                    "sourceDirectory": "2055682529",
+                    "sourceWorkshopId": 2055682529,
+                    "name": "Fusil Mle 1886 M93/1916"
+                },
+                {
+                    "sourceDirectory": "2815074086",
+                    "sourceWorkshopId": 2815074086,
+                    "name": "Binoculars"
+                },
+                {
+                    "sourceDirectory": "1439632100",
+                    "sourceWorkshopId": 1439632100,
+                    "name": "Flashlight"
+                },
+                {
+                    "sourceDirectory": "3259538580",
+                    "sourceWorkshopId": 3259538580,
+                    "name": "VZ.54"
+                },
+                {
+                    "sourceDirectory": "3185766513",
+                    "sourceWorkshopId": 3185766513,
+                    "name": "VZ-52"
+                },
+                {
+                    "sourceDirectory": "3185766513",
+                    "sourceWorkshopId": 3185766513,
+                    "name": "VZ-52/57"
+                },
+                {
+                    "sourceDirectory": "3266678861",
+                    "sourceWorkshopId": 3266678861,
+                    "name": "Vz.58 [VG70]"
+                },
+                {
+                    "sourceDirectory": "3266678861",
+                    "sourceWorkshopId": 3266678861,
+                    "name": "Vz.58 V"
+                },
+                {
+                    "sourceDirectory": "3266678861",
+                    "sourceWorkshopId": 3266678861,
+                    "name": "Vz.58 [BAYONET]"
+                },
+                {
+                    "sourceDirectory": "3266678861",
+                    "sourceWorkshopId": 3266678861,
+                    "name": "Vz.58"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "3125289737",
+                    "sourceWorkshopId": 3125289737,
+                    "name": "Jiefang CA-30"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2956372481",
+                    "sourceWorkshopId": 2956372481,
+                    "name": "M3A1_Halftrack"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2774966882",
+                    "sourceWorkshopId": 2774966882,
+                    "name": "GAZ-64"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2400720726",
+                    "sourceWorkshopId": 2400720726,
+                    "name": "t34_85 v2022"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2074530708",
+                    "sourceWorkshopId": 2074530708,
+                    "name": "Mil Mi-1"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2288933294",
+                    "sourceWorkshopId": 2288933294,
+                    "name": "MIG-21 Bis_Vietnamese_Final"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2110363018",
+                    "sourceWorkshopId": 2110363018,
+                    "name": "assault boat"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "3070959518",
+                    "sourceWorkshopId": 3070959518,
+                    "name": "jet NK"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2845874486",
+                    "sourceWorkshopId": 2845874486,
+                    "name": "BTR60P ver.sit by Sowen"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2772868691",
+                    "sourceWorkshopId": 2772868691,
+                    "name": "DSHKM Kondakov"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2869033522",
+                    "sourceWorkshopId": 2869033522,
+                    "name": "ZiS-2"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2351694765",
+                    "sourceWorkshopId": 2351694765,
+                    "name": "ZU AA GG 4"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2066599973",
+                "sourceWorkshopId": 2066599973,
+                "name": "PAVN Green"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2833910162",
+            "sourceWorkshopId": 2833910162,
+            "name": "Flags of the Vietnam War",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "6"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "14"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}
